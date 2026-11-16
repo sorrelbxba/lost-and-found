@@ -10,7 +10,7 @@ Website ini dikembangkan menggunakan React.js untuk Frontend, Node.js dan Expres
 
 * Taruna Prasetya / 2606888521 sebagai **Backend Developer**
 * Anggota 2 / NPM sebagai **Frontend Developer 1**
-* Anggota 3 / NPM sebagai **Frontend Developer 2**
+* Aqila Callista Khansa / 2606733204 sebagai **Frontend Developer 2**
 
 ## Dokumentasi Direktori
 
